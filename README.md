@@ -12,8 +12,7 @@ Example article:
 {
   "title":"Bitcoin’s 50% Correction Is No Big Deal, Says Morgan Stanley"
   "link":"https://www.investing.com/news/cryptocurrency-news/bitcoins-50-correction-is-no-big-deal-says-morgan-stanley-2754528"
-  "description":
-  Bitcoin has experienced 15 corrections since its inception in 2009. The asset’s current decline all the way down from its all time high of $69K is within its...
+  "description":"Bitcoin has experienced 15 corrections since its inception in 2009. The asset’s current decline all the way down from its all time high of $69K is within its..."
   "source":"By DailyCoin"
   "date":"12 hours ago"
   "tags":[
