@@ -19,7 +19,7 @@ Example article:
     {
       "symbol":"BTC"
       "name":"Bitcoin"
-      "icon":"https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@bea1a9722a8c63169dcc06e86182bf2c55a76bbc/svg/color/btc.svg"
+      "icon":"https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@bea1a9722a8c63169dcc06e86182bf2c55a76bbc/bitcoin.svg"
     }
   ]
 }
