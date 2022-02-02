@@ -8,7 +8,7 @@ One endpoint, no pagination, just the most relevant price sensitive crypto news 
 
 Example article:
 
-```js
+```json
 {
   "title":"Bitcoin’s 50% Correction Is No Big Deal, Says Morgan Stanley"
   "link":"https://www.investing.com/news/cryptocurrency-news/bitcoins-50-correction-is-no-big-deal-says-morgan-stanley-2754528"
