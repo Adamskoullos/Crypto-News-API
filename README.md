@@ -7,7 +7,7 @@ Articles are aggregated and curated by industry leading [Investing.com](https://
 One endpoint, no pagination, just the most relevant price sensitive crypto news over the last 24 hours. A snapshot of what is currently driving sentiment and price.
 
 - **Disclaimer**: The API is currently in BETA and running on a free tier, meaning the first time you hit the endpoint you may have to wake the server up.
-- **Trick**: set your app to hit the endpoint on initial load so by the time the user goes to the news page the server is active and response times will be fast. The data is scraped every minute and saved to the datbase, all calls pull direct from the database allowing for fast response times.
+- **Trick**: set your app to hit the endpoint on initial load so by the time the user goes to the news page the server is active and response times will be fast. The data is scraped every minute and saved to the database, all calls pull direct from the database allowing for fast response times.
 
 Example article:
 
