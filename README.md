@@ -2,6 +2,8 @@
 
 **[Access for free on Rapid API](https://rapidapi.com/adamskoullos@gmail.com/api/crypto-pulse/)**
 
+**[Live Demo Page](https://crypto-news-demo.netlify.app/)**
+
 Articles are aggregated and curated by industry leading [Investing.com](https://www.investing.com/news/cryptocurrency-news). This data is collected every minute then put through our algorithm to add value. The relevant coin tags and icons are added and advertising content is removed leaving clean data that can be easily filtered and sorted using the tags. The icons allow the user to quickly identify articles of interest.
 
 One endpoint, no pagination, just the most relevant price sensitive crypto news over the last 24 hours. A snapshot of what is currently driving sentiment and price.
