@@ -11,6 +11,8 @@ One endpoint, no pagination, just the most relevant price sensitive crypto news 
 
 Example article:
 
+![Screenshot from 2022-02-07 07-11-10](https://user-images.githubusercontent.com/73107656/152741595-b2777947-f943-43bf-ae95-f23d9ce1564a.png)
+
 ```json
 {
   "title":"Bitcoin’s 50% Correction Is No Big Deal, Says Morgan Stanley"
