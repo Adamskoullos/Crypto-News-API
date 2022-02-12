@@ -1,19 +1,19 @@
 # Crypto News API
 
+![news demo page](https://user-images.githubusercontent.com/73107656/153707072-ea23dc92-2bf2-4b4b-a451-348c214f4b3c.png)
+
 **[Access for free on Rapid API](https://rapidapi.com/adamskoullos@gmail.com/api/crypto-pulse/)**
 
 **[Live Demo Page](https://crypto-news-demo.netlify.app/)**
 
-Articles are aggregated and curated by industry leading [Investing.com](https://www.investing.com/news/cryptocurrency-news). This data is collected every minute then put through our algorithm to add value. The relevant coin tags and icons are added and advertising content is removed leaving clean data that can be easily filtered and sorted using the tags. The icons allow the user to quickly identify articles of interest.
+Source articles are aggregated and curated by industry leading [Investing.com](https://www.investing.com/news/cryptocurrency-news). This data is mined every minute, advertising content is removed, coin tags are added and articles are created and saved to the database. All requests pull direct from the database allowing for fast response times.
 
 One endpoint, no pagination, just the most relevant price sensitive crypto news over the last 24 hours. A snapshot of what is currently driving sentiment and price.
 
 - **`Disclaimer`**: The API is currently in BETA and running on a free tier, meaning the first time you hit the endpoint you may have to wake the server up.
-- **`Trick`**: set your app to hit the endpoint on initial load so by the time the user goes to the news page the server is active and response times will be fast. The data is scraped every minute and saved to the database, all calls pull direct from the database allowing for fast response times.
+- **`Trick`**: set your app to hit the endpoint on initial load so by the time the user goes to the news page the server is active and response times will be fast.
 
 Example article:
-
-![Screenshot from 2022-02-07 07-11-10](https://user-images.githubusercontent.com/73107656/152741595-b2777947-f943-43bf-ae95-f23d9ce1564a.png)
 
 ```json
 {
