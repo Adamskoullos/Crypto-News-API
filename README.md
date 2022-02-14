@@ -1,6 +1,6 @@
 # Crypto News API
 
-![news demo page](https://user-images.githubusercontent.com/73107656/153707072-ea23dc92-2bf2-4b4b-a451-348c214f4b3c.png)
+![Screenshot from 2022-02-14 07-32-04](https://user-images.githubusercontent.com/73107656/153819614-93a00176-3d34-40f1-862f-9a17f9f74941.png)
 
 **[Access for free on Rapid API](https://rapidapi.com/adamskoullos@gmail.com/api/crypto-pulse/)**
 
