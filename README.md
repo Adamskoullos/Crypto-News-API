@@ -2,7 +2,7 @@
 
 ![Screenshot from 2022-02-14 07-32-04](https://user-images.githubusercontent.com/73107656/153819614-93a00176-3d34-40f1-862f-9a17f9f74941.png)
 
-**[Access for free on Rapid API](https://rapidapi.com/adamskoullos@gmail.com/api/crypto-pulse/)**
+**[Access for free on Rapid API](https://rapidapi.com/adamskoullos-amoQpTtXMJ5/api/crypto-pulse/)**
 
 **[Live Demo Page](https://crypto-news-demo.netlify.app/)**
 
